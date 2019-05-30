@@ -1,0 +1,21 @@
+#everything {
+  margin-right: 200px;
+  margin-left: 200px;
+}
+#title {
+  font-family: monospace;
+  font-size: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+#gastoncito {
+  width: 500px;
+  height: 300px;
+}
+#footer {
+  margin-right: 200px;
+  margin-left: 200px;
+  font-size: 15px;
+  font-family: "Times New Roman"
+}
